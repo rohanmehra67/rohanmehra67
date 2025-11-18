@@ -44,8 +44,8 @@
 
 ### 🌐 Connect With Me  
 <p align="left">
-<a href="https://www.linkedin.com/in/rohan-mehra-0255a42bb/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="rmehra1706@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rohan-mehra-0255a42bb/" target="blank"><img src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="LinkedIn" width="40" height="40"/></a>
+<a href="rmehra1706@gmail.com"><img src="https://static.vecteezy.com/system/resources/previews/022/613/021/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" alt="Gmail" width="40" height="40"/></a>
 </p>
 
 ---
@@ -57,6 +57,6 @@
 ### ☕ Buy Me a Coffee  
 <p align="center">
   <a href="https://www.buymeacoffee.com/YOUR_ID" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
+    <img src="" />
   </a>
 </p>
