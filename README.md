@@ -57,6 +57,6 @@
 ### ☕ Buy Me a Coffee  
 <p align="center">
   <a href="https://www.buymeacoffee.com/YOUR_ID" target="_blank">
-    <img src="" />
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd24waXB5Nnl4aWJjNHNoeXJjcG8ybnNidW00amh6cGtmdm51cGhyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7kZE0z52Sd9zSESzDA/giphy.gif" />
   </a>
 </p>
