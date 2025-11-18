@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rohan</h1>
-<h3 align="center">Aspiring Full Stack Developer | BCA 3rd Year | Tech Enthusiast</h3>
+<h3 align="center">Aspiring Full Stack Developer | Tech Enthusiast</h3>
 
 ---
 
 ### 🚀 About Me
-- 🎓 BCA 3rd year student  
 - 🌱 Currently learning **Full Stack Development (React, Node, Express, MongoDB)**  
 - 💡 Interested in **Game Development**, **UI/UX**, and **AI Content Creation**  
 - 📚 Trying to master **DSA with Java**  
