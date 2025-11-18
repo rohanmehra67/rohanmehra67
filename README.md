@@ -3,7 +3,7 @@
 
 ---
 <p align="center">
-  <img src= "https://tenor.com/view/ghostedvpn-hacker-cat-bongo-cat-keyboard-cat-hacker-gif-4373606555250453292" />
+  <img src= "https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif" />
 </p>
 
 ### 🚀 About Me
