@@ -2,13 +2,17 @@
 <h3 align="center">Aspiring Full Stack Developer | Tech Enthusiast</h3>
 
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
 
 ### 🚀 About Me
 - 🌱 Currently learning **Full Stack Development (React, Node, Express, MongoDB)**  
-- 💡 Interested in **Game Development**, **UI/UX**, and **AI Content Creation**  
+- 💡 Interested in **Game Development** and **UI/UX designing**  
 - 📚 Trying to master **DSA with Java**  
 - 🎨 I love **painting**, **music**, and **guitar**  
-- 📺 Running a **meme page** & planning **movie explanation YouTube channel**  
+- 📩 How to reach me rmehra1706@gmail.com
+- ⚡ Fun fact I make memes to recover from coding stress. 
 
 ---
 
@@ -49,13 +53,6 @@
 <a href="https://www.linkedin.com/in/YOUR_HANDLE" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
----
-
-### 🧠 Fun Facts
-- I love creating memes & content  
-- Addicted to learning new skills  
-- Always building something cool 🚀  
 
 ---
 
