@@ -19,7 +19,7 @@
 ### 🔧 Tech Stack
 
 #### **Frontend**
-![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/500px-HTML5_logo_and_wordmark.svg.png)
+![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/500px-HTML5_logo_and_wordmark.svg.png width="40" )
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
