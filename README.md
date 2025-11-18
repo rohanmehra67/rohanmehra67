@@ -1,16 +1,72 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rohan</h1>
+<h3 align="center">Aspiring Full Stack Developer | BCA 3rd Year | Tech Enthusiast</h3>
 
-<!--
-**rohanmehra67/rohanmehra67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🎓 BCA 3rd year student  
+- 🌱 Currently learning **Full Stack Development (React, Node, Express, MongoDB)**  
+- 💡 Interested in **Game Development**, **UI/UX**, and **AI Content Creation**  
+- 📚 Trying to master **DSA with Java**  
+- 🎨 I love **painting**, **music**, and **guitar**  
+- 📺 Running a **meme page** & planning **movie explanation YouTube channel**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tech Stack
+
+#### **Frontend**
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwindcss)
+
+#### **Backend**
+![Node](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+
+#### **Programming Languages**
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=oracle)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" height="160" />
+</p>
+
+---
+
+### 🌐 Connect With Me  
+<p align="left">
+<a href="https://www.instagram.com/YOUR_HANDLE" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/YOUR_HANDLE" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+### 🧠 Fun Facts
+- I love creating memes & content  
+- Addicted to learning new skills  
+- Always building something cool 🚀  
+
+---
+
+⭐ **Don't forget to star some repos you like!**
+
+---
+
+### ☕ Buy Me a Coffee  
+<p align="center">
+  <a href="https://www.buymeacoffee.com/YOUR_ID" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
+  </a>
+</p>
